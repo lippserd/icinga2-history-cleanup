@@ -1,0 +1,8 @@
+database:
+  host: postgres
+  port: 3306
+  database: icinga2
+  user: icinga2
+  password: icinga2
+  options:
+    older_than: 8760h
